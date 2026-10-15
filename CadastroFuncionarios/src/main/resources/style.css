@@ -1,0 +1,34 @@
+root {
+    -fx-font-family: "Segoe UI", "Arial";
+    -fx-font-size: 13px;
+    -fx-background-color: #f4f7fb;
+}
+.label { -fx-text-fill: #243247; }
+.button {
+    -fx-background-color: #e5eaf2;
+    -fx-text-fill: #1d2b40;
+    -fx-background-radius: 7;
+    -fx-padding: 8 13 8 13;
+    -fx-cursor: hand;
+}
+.button:hover { -fx-background-color: #d4deed; }
+.primary-button {
+    -fx-background-color: #2463eb;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.primary-button:hover { -fx-background-color: #174fc8; }
+.text-field, .date-picker, .combo-box {
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-border-color: #d5deea;
+    -fx-padding: 5;
+}
+.tab-pane .tab-header-area .tab {
+    -fx-background-radius: 7 7 0 0;
+}
+.table-view {
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: #dbe3ee;
+}

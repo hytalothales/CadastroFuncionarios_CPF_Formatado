@@ -1,0 +1,4 @@
+matricula;nome;cpf;dataNascimento;cargo;salario;dataContratacao;reservado;logradouro;numero;complemento;bairro;cidade;estado;cep
+"145678";"Hytalo Thales";"710.106.381-06";"2003-01-14";"Gerente";"12000";"2021-12-20";"";"Rua dos Vasquez";"00";"Quadra 22, lote 07";"Faiçalvile";"Aparecida de Goiânia";"GO";"74598701"
+"146978";"Gabriel";"529.982.247-25";"1996-05-22";"Analista de Dados";"8000";"2020-05-13";"";"Rua doMarmelos";"02";"Quadra 02";"Alto da Glória";"Goiãnia";"GO";"71102597"
+"164597";"Lucas Ferreira";"111.444.777-35";"2003-11-17";"Auxiliar Administrativo";"3000";"2026-10-14";"";"Rua dos MArmelos";"00";"Quadra 22, lote 07";"Faiçalvile";"Aparecida de Goiânia";"GO";"16495802"
